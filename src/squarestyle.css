@@ -1,0 +1,11 @@
+.squarestyle{
+
+border:solid 2px black;
+width:70px;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+
+}
